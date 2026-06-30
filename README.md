@@ -43,7 +43,7 @@ Tidak memerlukan server, framework, atau instalasi apapun.
 
 1. **Clone** repository ini:
    ```bash
-   git clone https://github.com/username/kalkulator-interpolasi.git
+   git clone https://github.com/nabil-zayan/kalkulator-numerik-interpolasi-kelompok-5.git
    ```
 2. **Buka** file `index.html` langsung di browser (Chrome / Firefox / Edge).
 3. Selesai — aplikasi langsung berjalan.
