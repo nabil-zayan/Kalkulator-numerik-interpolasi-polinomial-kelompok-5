@@ -127,7 +127,7 @@ Tidak menggunakan framework frontend (React, Vue, dll) — murni HTML/CSS/JS.
 
 ## 🌐 Akses Aplikasi
 Aplikasi ini di-*deploy* menggunakan GitHub Pages dan dapat diakses melalui tautan berikut:
-[**Buka Kalkulator Interpolasi**](https://nabil-zayan.github.io/kalkulator-mumerik-interpolasi-polinomial-kelompok-5/)
+[**Buka Kalkulator Interpolasi**](https://nabil-zayan.github.io/Kalkulator-numerik-interpolasi-polinomial-kelompok-5/)
 
 **Mata Kuliah:** Metode Numerik  
 **Dosen Pengampu:** Rosita Kartikasari, S.T., M.T. & Evi Sundari, M.Pd.  
